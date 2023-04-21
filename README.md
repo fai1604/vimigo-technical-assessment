@@ -138,11 +138,12 @@ To learn more about the capabilities of `serverless-offline` and `serverless-dyn
 - https://github.com/dherault/serverless-offline
 - https://github.com/99x/serverless-dynamodb-local -->
 
-# Contacts REST API Documentation
+# Contact Information REST API Documentation
 
 This is a RESTful API built as a part of vimigotech Technical Assessment using Serverless, Express.js, Node.js, and AWS SDK. AWS resources used are Lambda, API Gateway, DynamoDB, S3, and CloudFormation.
 
 Postman JSON link: https://api.postman.com/collections/16888310-fe66a510-a0e9-48b8-bae2-c0710c7a347d?access_key=PMAT-01GYHM92SDKZXCCBAW70Q4SG32
+
 Video presentation link: https://drive.google.com/file/d/1eTDDp1YUBniCCEHcC24pOB7RFis5uxBX/view?usp=sharing
 ## API Endpoints
 
